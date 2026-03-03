@@ -42,5 +42,8 @@
     },
     "config": {
         "sort-packages": true
+    },
+    "conflict": {
+        "symfony/http-client": "<5.4.47|>=6,<6.4.15|>=7,<7.1.8"
     }
 }
