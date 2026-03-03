@@ -24,7 +24,7 @@
         "php-cs-fixer/shim": "^v3.64.0",
         "phpstan/phpstan": "^1.12.0",
         "phpstan/phpstan-phpunit": "^1.4.0",
-        "symfony/http-client": "^5.0|^6.2|^7.0|^8",
+        "symfony/http-client": "^5.4.47|^6.4.15|^7.1.8|^8.0",
         "symfony/phpunit-bridge": "^5.3|^6.2|^7.0|^8"
     },
     "autoload": {
